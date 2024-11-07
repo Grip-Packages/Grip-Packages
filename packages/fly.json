@@ -1,0 +1,5 @@
+{
+  "name": "fly",
+  "repository": "concourse/concourse",
+  "description": "Fly is the official CLI for concourse"
+}
