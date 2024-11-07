@@ -1,0 +1,5 @@
+{
+  "name": "bosh-cli",
+  "repository": "cloudfoundry/bosh-cli",
+  "description": "The CLI for Cloud Foundry Bosh"
+}
