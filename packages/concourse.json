@@ -1,0 +1,5 @@
+{
+  "name": "concourse",
+  "repository": "concourse/concourse",
+  "description": "Concourse is a container-based continuous thing-doer written in Go."
+}
