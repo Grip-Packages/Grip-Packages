@@ -1,0 +1,5 @@
+{
+  "name": "gh-cli",
+  "repository": "cli/cli",
+  "description": "GitHub’s official command line tool"
+}
