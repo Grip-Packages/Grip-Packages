@@ -1,5 +1,6 @@
 {
   "name": "horizon",
+  "executable_name": "horizon-server",
   "repository": "Far-Beyond-Dev/Horizon-Community-Edition",
   "description": "A modern game server for the modern age"
 }
