@@ -1,5 +1,6 @@
 {
   "name": "omni-cli",
+  "executable_name": "omni",
   "repository": "Omni-Forge/Omni-CLI",
   "description": "A performant, yet visually appealing CLI for OmniForge"
 }
