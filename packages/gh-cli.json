@@ -1,5 +1,6 @@
 {
   "name": "gh-cli",
+  "executable_name": "gh",
   "repository": "cli/cli",
   "description": "GitHub’s official command line tool"
 }
