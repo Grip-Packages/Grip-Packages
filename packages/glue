@@ -1,0 +1,6 @@
+{
+  "name": "Glue",
+  "executable_name": "glue",
+  "repository": "tristanpoland/GLUE",
+  "description": "A CLI tool for generating an amalgamation of files across one or more paths designed to give project contexts to LLMs easilyan amalgomation of files across one or more paths designed to give project context to LLMs easily"
+}
