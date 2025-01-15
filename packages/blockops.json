@@ -1,0 +1,6 @@
+{
+  "name": "BlockOps",
+  "executable_name": "blockops",
+  "repository": "tristanpoland/BlockOps",
+  "description": "A CLI tool for simplifying your Minecraft server management with Docker-powered automation"
+}
