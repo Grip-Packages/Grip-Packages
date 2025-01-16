@@ -1,0 +1,6 @@
+{
+  "name": "Genesis",
+  "executable_name": "genesis",
+  "repository": "genesis-community/genesis",
+  "description": "A CLI tool for the Genesis BOSH Deployment Paradigm"
+}
